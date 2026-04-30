@@ -1,32 +1,30 @@
 # AI Excel Dashboard Generator
 
-## Overview
-AI-powered application that converts Excel files into dashboards, insights, and SDLC documentation.
+## 🚀 Overview
+AI-powered application that converts Excel files into dashboards, insights, and reports.
 
-## Features
+## 🌐 Live Demo
+https://ai-data-bloom.lovable.app
+## ⚙️ Features
 - Upload Excel files
 - Auto-generate dashboards
 - KPI detection
-- AI insights
+- Data preview
 - FastAPI backend
-- Lovable frontend
+- Lovable UI frontend
 
-## Tech Stack
+## 🛠 Tech Stack
 - Python (FastAPI)
 - Pandas
-- Lovable UI
-- ngrok (for public API)
+- Lovable
+- ngrok
 
-## Demo
-Live demo: [Paste your Lovable link here]
-
-## How it works
-1. Upload Excel
+## 📌 How it works
+1. Upload Excel file
 2. Backend processes data
-3. Dashboard generated
-4. Insights displayed
+3. Dashboard generated automatically
 
-## Future Enhancements (V2)
+## 🔥 Future Enhancements (V2)
 - Multi-file join
 - AI query engine
 - Export PDF
